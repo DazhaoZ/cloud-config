@@ -1,5 +1,3 @@
 config:
-  info: "cloud-config/master/config-dev.yaml,branch=master,version=2.0.RELEASE"
-server:
-  port: 3366
+  info: "cloud-config/master/config-dev.yaml,branch=master,version=3.0.RELEASE"
 
